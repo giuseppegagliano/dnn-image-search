@@ -8,8 +8,8 @@ public class Parameters {
 		this.DEEP_LAYER = DEEP_LAYER;
 		this.QUANTIZATION_FACTOR = QUANTIZATION_FACTOR;
 		this.K=K;
-		
 	}
+	
 	//DEEP parameters
 	public static final String DEEP_PROTO = "data/caffe/train_val.prototxt";
 	public static final String DEEP_MODEL = "data/caffe/bvlc_reference_caffenet.caffemodel";

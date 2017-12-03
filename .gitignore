@@ -1,6 +1,7 @@
 .git/
 .settings/
 bin/
+data/
 lib/
 org/
 out/
