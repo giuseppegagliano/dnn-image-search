@@ -1,5 +1,5 @@
 # DNN Image search engine (no-GUI version)
-A search by image engine using DNN.
+A search-by-image tool made with Lucene, Caffe and OpenCV.
 
 ## Info
 Initialization procedure.
