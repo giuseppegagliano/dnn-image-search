@@ -1,5 +1,5 @@
 # DNN Image search engine (no-GUI version)
-A search-by-image tool made with Lucene, Caffe and OpenCV.
+A search-by-image tool made with Lucene, Caffe and OpenCV. The slides can be found [here](https://drive.google.com/file/d/0B5lsuPQLw1Q8d1JNbTQ3aVhjVzQ/view?usp=sharing).
 
 ## Info
 Initialization procedure.
